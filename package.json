@@ -1,0 +1,31 @@
+{
+  "name": "jjjx",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "tsapp-scripts": "0.1.7",
+    "react-test-renderer": "^15.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "node-sass": "^3.8.0",
+    "normalize.css": "^4.2.0",
+    "react": "^15.3.0",
+    "react-addons-css-transition-group": "^15.3.0",
+    "react-addons-update": "^15.3.1",
+    "react-bootstrap": "^0.30.2",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.1",
+    "react-toolbox": "^1.1.2",
+    "redux": "^3.5.2",
+    "redux-helper": "0.0.26",
+    "redux-thunk": "^2.1.0"
+  },
+  "scripts": {
+    "start": "tsapp-scripts start",
+    "build": "tsapp-scripts build",
+    "eject": "tsapp-scripts eject",
+    "test": "tsapp-scripts test"
+  }
+}
